@@ -1,2 +1,2 @@
-# Dotfilel
->Keep track of the system configuration
+# Dotfiles
+> Keep track of the system configuration.
