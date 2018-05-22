@@ -1,0 +1,16 @@
+
+# alias jhbuild="PATH=gtk-prefix/bin:$PATH jhbuild"
+alias gulp="gulp --require coffee-script/register"
+# Open bash_profile
+alias settings="vim ~/.bash_profile"
+# Open in finder
+alias f="open -a Finder ./"
+# Clear the console
+alias c="clear"
+# Compile cpp file
+alias cppcompile='c++ -std=c++11 -stdlib=libc++'
+# List all but quicker
+alias l="ls -la"
+# Remove .DS_Store files recursively
+alias cleanupds="find . -type f -name '*.DS_Store' -ls -delete"
+
